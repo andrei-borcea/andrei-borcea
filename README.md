@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Machine Learning, Flutter, Scala and microservices structure
 - 💞️ I’m looking to collaborate on any open source project and learn new things
 - 📫 How to reach me 
-  Linkedin : https://www.linkedin.com/in/%F0%9F%92%BB-andrei-borcea-2251a6134/
+  Linkedin : www.linkedin.com/in/andrei-borcea
   Telegram : https://t.me/hustlercoder 
 
 <!---
