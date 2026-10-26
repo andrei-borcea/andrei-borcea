@@ -93,16 +93,27 @@ TypeScript    ░░░░░░░░░░░░░░░░░░░░    0.
 
 ## 🛠 Stack
 
-| | |
-|---|---|
-| **Languages** | C/C++ · C# · Java · Python · JavaScript |
-| **Frameworks** | Node.js · React · React Native · Qt (C++) |
-| **Cloud &amp; DevOps** | AWS · Google Cloud · Docker · Kubernetes · Ansible · Chef · Puppet · Infrastructure as Code |
-| **CI/CD &amp; tooling** | CircleCI · Travis CI · GitBucket · Jira · Git · Gradle · Maven · VS Code |
-| **Testing** | Robot Framework · PyTest · Jest · Mocha · GoogleTest |
-| **Data** | PostgreSQL · Redis · Elasticsearch · relational &amp; NoSQL |
-| **Observability** | Elasticsearch · Logstash · Kibana · Grafana · Prometheus · InfluxDB |
-| **Platforms** | Windows · Linux · Android |
+**Languages & frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,js,nodejs,react,qt" alt="Languages and frameworks" />
+
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,ansible,terraform,git" alt="Cloud and DevOps" />
+
+**Data & observability**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,redis,elasticsearch,grafana,prometheus" alt="Data and observability" />
+
+**Testing & tools**
+<br>
+<img src="https://skillicons.dev/icons?i=jest,vscode,gradle,maven" alt="Testing and tools" />
+
+**Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=linux,android" alt="Platforms" />
+
+**Currently exploring:** Machine Learning · Flutter · Scala · microservices architecture
 
 **Currently exploring:** Machine Learning · Flutter · Scala · microservices architecture
 
