@@ -1,0 +1,22 @@
+# Copy this file to .github/workflows/notify-profile.yml in every repository
+# you want reflected on your profile (or use scripts/install_notify.sh).
+# Requires the repository secret PROFILE_DISPATCH_TOKEN (see SETUP.md).
+name: Notify profile
+
+on:
+  push:
+    branches: [main, master]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    # Never break the repo's own CI if the notification fails
+    continue-on-error: true
+    steps:
+      - name: Ask the profile repo to refresh its README
+        run: |
+          curl -fsS -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.PROFILE_DISPATCH_TOKEN }}" \
+            https://api.github.com/repos/andrei-borcea/andrei-borcea/dispatches \
+            -d '{"event_type":"repo-push","client_payload":{"repo":"${{ github.repository }}"}}'

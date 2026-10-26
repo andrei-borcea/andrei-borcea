@@ -1,0 +1,59 @@
+# Configuration for scripts/update_readme.py
+# Edit this file and push: the README is regenerated automatically.
+
+username: andrei-borcea
+
+# --- Featured projects -------------------------------------------------------
+# Shown first, in this order. "tagline" is optional and overrides the repo
+# description (useful when the GitHub description is long or missing).
+featured:
+  - repo: liyab
+    # tagline: "On-device LLM inference engine in C++20"
+
+# Total number of cards in the featured section. If you list fewer repos above,
+# the remaining slots are filled with the most starred / most recently pushed
+# non-fork repositories. Set to 0 to show only the repos listed above.
+featured_slots: 4
+
+# --- Visibility --------------------------------------------------------------
+exclude: []            # repo names to hide everywhere, e.g. ["old-experiment"]
+show_forks: true       # list forks in a collapsed section at the bottom
+show_archived: false
+
+# --- Recently active ---------------------------------------------------------
+recent_count: 5        # latest pushes, with the last commit message
+
+# --- Grouping of "All projects" ----------------------------------------------
+# 1) category_overrides: repo name -> category (highest priority)
+# 2) categories: GitHub topic -> category (set topics in each repo's settings)
+# 3) otherwise the repo is grouped by its main language
+category_overrides:
+  liyab: "AI & Machine Learning"
+
+categories:
+  ai: "AI & Machine Learning"
+  machine-learning: "AI & Machine Learning"
+  llm: "AI & Machine Learning"
+  devops: "Cloud & DevOps"
+  kubernetes: "Cloud & DevOps"
+  docker: "Cloud & DevOps"
+  terraform: "Cloud & DevOps"
+  react: "Web & Mobile"
+  react-native: "Web & Mobile"
+  nodejs: "Web & Mobile"
+  flutter: "Web & Mobile"
+  qt: "Desktop & Embedded"
+  embedded: "Desktop & Embedded"
+  cli: "Tools & Utilities"
+  tools: "Tools & Utilities"
+
+# Display order of the groups (any group not listed goes after, alphabetically)
+category_order:
+  - "AI & Machine Learning"
+  - "Cloud & DevOps"
+  - "Web & Mobile"
+  - "Desktop & Embedded"
+  - "Tools & Utilities"
+
+# --- Language bar ------------------------------------------------------------
+languages_top: 6
