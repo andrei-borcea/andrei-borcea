@@ -45,8 +45,8 @@ TypeScript    ░░░░░░░░░░░░░░░░░░░░    0.
 ## 🔥 Recently active
 
 <!-- AUTO:recent:START -->
-- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — docs(watchos): record APFS size-check bypass patch + remaining ENXIO · _today_
-- **[liyab](https://github.com/andrei-borcea/liyab)** — Agent prompt: the reasoning effort of each sub-agent and step · _today_
+- **[liyab](https://github.com/andrei-borcea/liyab)** — Agent prompt: the reasoning effort of each sub-agent and step · _yesterday_
+- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — docs(watchos): r2+r2ghidra REA of AMFI/shared_region path — findings · _today_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _7 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
 <!-- AUTO:recent:END -->
