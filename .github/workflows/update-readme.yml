@@ -1,0 +1,52 @@
+name: Update profile README
+
+on:
+  # Instant: fired by the notify-profile workflow of each repository on push
+  repository_dispatch:
+    types: [repo-push]
+  # Safety net: catches new repos, renames, star changes and missed events
+  schedule:
+    - cron: "17 */6 * * *"
+  # Manual run from the Actions tab
+  workflow_dispatch:
+  # Re-render when you change the layout, the config or the script
+  push:
+    branches: [main]
+    paths: [config.yml, scripts/**]
+
+permissions:
+  contents: write
+
+# If many repos are pushed together, runs are coalesced into one
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml
+
+      - name: Regenerate README
+        run: python scripts/update_readme.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "README already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update profile README"
+          git push
