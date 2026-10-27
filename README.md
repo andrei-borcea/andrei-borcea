@@ -22,12 +22,12 @@ I'm always open to collaborating on open source projects and learning something 
 **4** projects · **12** ★ received · **28** forks
 
 ```text
-C++           ████████████░░░░░░░░   61.2%
-C             ██░░░░░░░░░░░░░░░░░░   10.7%
-Dart          ██░░░░░░░░░░░░░░░░░░   10.4%
-Python        ██░░░░░░░░░░░░░░░░░░    8.6%
+C++           ████████████░░░░░░░░   60.8%
+C             ██░░░░░░░░░░░░░░░░░░   10.6%
+Dart          ██░░░░░░░░░░░░░░░░░░   10.3%
+Python        ██░░░░░░░░░░░░░░░░░░    9.1%
 Vue           █░░░░░░░░░░░░░░░░░░░    5.4%
-TypeScript    ░░░░░░░░░░░░░░░░░░░░    0.8%
+Shell         ░░░░░░░░░░░░░░░░░░░░    0.8%
 ```
 <!-- AUTO:stats:END -->
 
@@ -46,7 +46,7 @@ TypeScript    ░░░░░░░░░░░░░░░░░░░░    0.
 
 <!-- AUTO:recent:START -->
 - **[liyab](https://github.com/andrei-borcea/liyab)** — Agent prompt: the reasoning effort of each sub-agent and step · _yesterday_
-- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — refactor: liyab-style README + two-track reorg + sn0shell userspace · _today_
+- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — mapping: device-agnostic port-gap engine + OPW2 baseline · _today_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _7 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
 <!-- AUTO:recent:END -->
