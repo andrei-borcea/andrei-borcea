@@ -22,12 +22,12 @@ I'm always open to collaborating on open source projects and learning something 
 **4** projects · **12** ★ received · **28** forks
 
 ```text
-C++           ████████████░░░░░░░░   60.8%
-C             ██░░░░░░░░░░░░░░░░░░   10.6%
-Dart          ██░░░░░░░░░░░░░░░░░░   10.3%
-Python        ██░░░░░░░░░░░░░░░░░░    9.1%
-Vue           █░░░░░░░░░░░░░░░░░░░    5.4%
-Shell         ░░░░░░░░░░░░░░░░░░░░    0.8%
+C++           ██████████████░░░░░░   70.2%
+Python        ██░░░░░░░░░░░░░░░░░░    8.7%
+C             █░░░░░░░░░░░░░░░░░░░    7.5%
+Dart          █░░░░░░░░░░░░░░░░░░░    7.1%
+Vue           █░░░░░░░░░░░░░░░░░░░    3.7%
+Shell         ░░░░░░░░░░░░░░░░░░░░    0.7%
 ```
 <!-- AUTO:stats:END -->
 
@@ -45,8 +45,8 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 ## 🔥 Recently active
 
 <!-- AUTO:recent:START -->
-- **[liyab](https://github.com/andrei-borcea/liyab)** — Agent prompt: the reasoning effort of each sub-agent and step · _yesterday_
-- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — mapping: device-agnostic port-gap engine + OPW2 baseline · _today_
+- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: scaffold Podman-based build env for OPW2 Linux .ko · _today_
+- **[liyab](https://github.com/andrei-borcea/liyab)** — Reorganize README and preserve detailed topic guides · _today_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _7 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
 <!-- AUTO:recent:END -->
