@@ -19,7 +19,7 @@ I build software across the whole stack: native C/C++ and Qt, Node.js and React 
 I'm always open to collaborating on open source projects and learning something new.
 
 <!-- AUTO:stats:START -->
-**4** projects · **12** ★ received · **28** forks
+**4** projects · **14** ★ received · **28** forks
 
 ```text
 C++           ██████████████░░░░░░   70.2%
@@ -36,7 +36,7 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- AUTO:featured:START -->
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
-| **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 10 | today |
+| **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 12 | today |
 | **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | today |
 | **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** | A modern, real-time dashboard for Apache Pulsar. Built with Nuxt 4, Vue 3, and Tailwind CSS. | `Vue` |  | 7 months ago |
 | **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** | — | `TypeScript` |  | 4 years ago |
@@ -45,8 +45,8 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 ## 🔥 Recently active
 
 <!-- AUTO:recent:START -->
-- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: scaffold Podman-based build env for OPW2 Linux .ko · _today_
 - **[liyab](https://github.com/andrei-borcea/liyab)** — Reorganize README and preserve detailed topic guides · _today_
+- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: build chain works end-to-end; blocker is OPPO MODULE_SIG_PROTECT · _today_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _7 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
 <!-- AUTO:recent:END -->
@@ -59,7 +59,7 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
-| **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 10 | today |
+| **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 12 | today |
 
 </details>
 
