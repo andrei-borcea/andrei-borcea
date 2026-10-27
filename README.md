@@ -22,12 +22,12 @@ I'm always open to collaborating on open source projects and learning something 
 **4** projects · **12** ★ received · **28** forks
 
 ```text
-C++           █████████████░░░░░░░   65.2%
-Dart          ██░░░░░░░░░░░░░░░░░░   11.0%
-Python        ██░░░░░░░░░░░░░░░░░░    8.0%
-C             █░░░░░░░░░░░░░░░░░░░    6.2%
-Vue           █░░░░░░░░░░░░░░░░░░░    5.7%
-TypeScript    ░░░░░░░░░░░░░░░░░░░░    0.9%
+C++           ████████████░░░░░░░░   61.2%
+C             ██░░░░░░░░░░░░░░░░░░   10.7%
+Dart          ██░░░░░░░░░░░░░░░░░░   10.4%
+Python        ██░░░░░░░░░░░░░░░░░░    8.6%
+Vue           █░░░░░░░░░░░░░░░░░░░    5.4%
+TypeScript    ░░░░░░░░░░░░░░░░░░░░    0.8%
 ```
 <!-- AUTO:stats:END -->
 
@@ -46,7 +46,7 @@ TypeScript    ░░░░░░░░░░░░░░░░░░░░    0.
 
 <!-- AUTO:recent:START -->
 - **[liyab](https://github.com/andrei-borcea/liyab)** — Agent prompt: the reasoning effort of each sub-agent and step · _yesterday_
-- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — docs(watchos): r2+r2ghidra REA of AMFI/shared_region path — findings · _today_
+- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — refactor: liyab-style README + two-track reorg + sn0shell userspace · _today_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _7 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
 <!-- AUTO:recent:END -->
@@ -159,5 +159,5 @@ TypeScript    ░░░░░░░░░░░░░░░░░░░░    0.
 - Telegram: [@hustlercoder](https://t.me/hustlercoder)
 
 <sub><!-- AUTO:meta:START -->
-Auto-generated from my repositories · synced 2026-10-26
+Auto-generated from my repositories · synced 2026-10-27
 <!-- AUTO:meta:END --></sub>
