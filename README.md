@@ -22,11 +22,11 @@ I'm always open to collaborating on open source projects and learning something 
 **4** projects · **14** ★ received · **28** forks
 
 ```text
-C++           ██████████████░░░░░░   70.2%
+C++           ██████████████░░░░░░   69.4%
 Python        ██░░░░░░░░░░░░░░░░░░    8.7%
-C             █░░░░░░░░░░░░░░░░░░░    7.5%
-Dart          █░░░░░░░░░░░░░░░░░░░    7.1%
-Vue           █░░░░░░░░░░░░░░░░░░░    3.7%
+Dart          ██░░░░░░░░░░░░░░░░░░    7.8%
+C             █░░░░░░░░░░░░░░░░░░░    7.3%
+Vue           █░░░░░░░░░░░░░░░░░░░    3.6%
 Shell         ░░░░░░░░░░░░░░░░░░░░    0.7%
 ```
 <!-- AUTO:stats:END -->
@@ -37,7 +37,7 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
 | **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 12 | today |
-| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | today |
+| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | yesterday |
 | **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** | A modern, real-time dashboard for Apache Pulsar. Built with Nuxt 4, Vue 3, and Tailwind CSS. | `Vue` |  | 7 months ago |
 | **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** | — | `TypeScript` |  | 4 years ago |
 <!-- AUTO:featured:END -->
@@ -45,8 +45,8 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 ## 🔥 Recently active
 
 <!-- AUTO:recent:START -->
-- **[liyab](https://github.com/andrei-borcea/liyab)** — Reorganize README and preserve detailed topic guides · _today_
-- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: build chain works end-to-end; blocker is OPPO MODULE_SIG_PROTECT · _today_
+- **[liyab](https://github.com/andrei-borcea/liyab)** — Complete desktop workspace and fuse Metal FFN execution · _today_
+- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: build chain works end-to-end; blocker is OPPO MODULE_SIG_PROTECT · _yesterday_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _7 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
 <!-- AUTO:recent:END -->
@@ -68,7 +68,7 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
-| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | today |
+| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | yesterday |
 
 </details>
 
