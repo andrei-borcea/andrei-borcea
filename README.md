@@ -22,8 +22,8 @@ I'm always open to collaborating on open source projects and learning something 
 **4** projects · **14** ★ received · **28** forks
 
 ```text
-C++           ██████████████░░░░░░   69.4%
-Python        ██░░░░░░░░░░░░░░░░░░    8.7%
+C++           ██████████████░░░░░░   69.6%
+Python        ██░░░░░░░░░░░░░░░░░░    8.6%
 Dart          ██░░░░░░░░░░░░░░░░░░    7.8%
 C             █░░░░░░░░░░░░░░░░░░░    7.3%
 Vue           █░░░░░░░░░░░░░░░░░░░    3.6%
@@ -45,7 +45,7 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 ## 🔥 Recently active
 
 <!-- AUTO:recent:START -->
-- **[liyab](https://github.com/andrei-borcea/liyab)** — Complete desktop workspace and fuse Metal FFN execution · _today_
+- **[liyab](https://github.com/andrei-borcea/liyab)** — Add the kernel page-cache tier for streamed experts as an experimental option · _today_
 - **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: build chain works end-to-end; blocker is OPPO MODULE_SIG_PROTECT · _yesterday_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _7 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
