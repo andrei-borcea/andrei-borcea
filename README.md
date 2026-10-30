@@ -36,8 +36,8 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- AUTO:featured:START -->
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
-| **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 13 | yesterday |
-| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | 2 days ago |
+| **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 13 | today |
+| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | 3 days ago |
 | **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** | A modern, real-time dashboard for Apache Pulsar. Built with Nuxt 4, Vue 3, and Tailwind CSS. | `Vue` |  | 7 months ago |
 | **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** | — | `TypeScript` |  | 4 years ago |
 <!-- AUTO:featured:END -->
@@ -46,7 +46,7 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 
 <!-- AUTO:recent:START -->
 - **[liyab](https://github.com/andrei-borcea/liyab)** — Add the kernel page-cache tier for streamed experts as an experimental option · _yesterday_
-- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: build chain works end-to-end; blocker is OPPO MODULE_SIG_PROTECT · _2 days ago_
+- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: build chain works end-to-end; blocker is OPPO MODULE_SIG_PROTECT · _3 days ago_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _7 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
 <!-- AUTO:recent:END -->
@@ -59,7 +59,7 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
-| **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 13 | yesterday |
+| **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 13 | today |
 
 </details>
 
@@ -68,7 +68,7 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
-| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | 2 days ago |
+| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | 3 days ago |
 
 </details>
 
