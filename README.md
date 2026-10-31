@@ -22,11 +22,11 @@ I'm always open to collaborating on open source projects and learning something 
 **4** projects · **15** ★ received · **28** forks
 
 ```text
-C++           ██████████████░░░░░░   69.6%
-Python        ██░░░░░░░░░░░░░░░░░░    8.6%
-Dart          ██░░░░░░░░░░░░░░░░░░    7.8%
-C             █░░░░░░░░░░░░░░░░░░░    7.3%
-Vue           █░░░░░░░░░░░░░░░░░░░    3.6%
+C++           ██████████████░░░░░░   69.7%
+Python        ██░░░░░░░░░░░░░░░░░░    8.7%
+Dart          ██░░░░░░░░░░░░░░░░░░    7.7%
+C             █░░░░░░░░░░░░░░░░░░░    7.2%
+Vue           █░░░░░░░░░░░░░░░░░░░    3.5%
 Shell         ░░░░░░░░░░░░░░░░░░░░    0.7%
 ```
 <!-- AUTO:stats:END -->
@@ -45,7 +45,7 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 ## 🔥 Recently active
 
 <!-- AUTO:recent:START -->
-- **[liyab](https://github.com/andrei-borcea/liyab)** — Add the kernel page-cache tier for streamed experts as an experimental option · _yesterday_
+- **[liyab](https://github.com/andrei-borcea/liyab)** — Add tools/hf_survey.py: what Hugging Face publishes, against what Liyab runs · _today_
 - **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: build chain works end-to-end; blocker is OPPO MODULE_SIG_PROTECT · _3 days ago_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _7 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
@@ -159,5 +159,5 @@ Shell         ░░░░░░░░░░░░░░░░░░░░    0.
 - Telegram: [@hustlercoder](https://t.me/hustlercoder)
 
 <sub><!-- AUTO:meta:START -->
-Auto-generated from my repositories · synced 2026-10-30
+Auto-generated from my repositories · synced 2026-10-31
 <!-- AUTO:meta:END --></sub>
