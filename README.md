@@ -19,7 +19,7 @@ I build software across the whole stack: native C/C++ and Qt, Node.js and React 
 I'm always open to collaborating on open source projects and learning something new.
 
 <!-- AUTO:stats:START -->
-**4** projects · **17** ★ received · **28** forks
+**5** projects · **17** ★ received · **29** forks
 
 ```text
 C++           ██████████████░░░░░░   70.0%
@@ -37,16 +37,17 @@ Objective-C++ ░░░░░░░░░░░░░░░░░░░░    0.
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
 | **[liyab](https://github.com/andrei-borcea/liyab)** | 🔥 Run large open language models on your phone. A C++20 GGUF inference engine that streams models larger than RAM from flash, paces itself… | `C++` `edge-ai` `gguf` `inference-engine` | 15 | 5 days ago |
-| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | 9 days ago |
+| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | 10 days ago |
+| **[mymuaythai](https://github.com/andrei-borcea/mymuaythai)** | — |  |  | today |
 | **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** | A modern, real-time dashboard for Apache Pulsar. Built with Nuxt 4, Vue 3, and Tailwind CSS. | `Vue` |  | 8 months ago |
-| **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** | — | `TypeScript` |  | 4 years ago |
 <!-- AUTO:featured:END -->
 
 ## 🔥 Recently active
 
 <!-- AUTO:recent:START -->
+- **[mymuaythai](https://github.com/andrei-borcea/mymuaythai)** — Create README.md · _today_
 - **[liyab](https://github.com/andrei-borcea/liyab)** — README: the Mac measurements (prompts, decode, load, x86 kernels) with charts, the self-c… · _5 days ago_
-- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: build chain works end-to-end; blocker is OPPO MODULE_SIG_PROTECT · _9 days ago_
+- **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** — kmod-sn0w: build chain works end-to-end; blocker is OPPO MODULE_SIG_PROTECT · _10 days ago_
 - **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** — Enhance API response handling in Pulsar route to improve JSON parsing. Implement fallback… · _8 months ago_
 - **[typescript-prisma-boilerplate](https://github.com/andrei-borcea/typescript-prisma-boilerplate)** — Second commit · _4 years ago_
 <!-- AUTO:recent:END -->
@@ -68,7 +69,7 @@ Objective-C++ ░░░░░░░░░░░░░░░░░░░░    0.
 
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
-| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | 9 days ago |
+| **[sn0wbite](https://github.com/andrei-borcea/sn0wbite)** | 🍎 sn0wbite — experimental reverse engineering project to boot watchOS on the OnePlus Watch 2. One bite is all it takes. Research only, not… | `C` | 2 | 10 days ago |
 
 </details>
 
@@ -87,6 +88,15 @@ Objective-C++ ░░░░░░░░░░░░░░░░░░░░    0.
 | Project | Description | Stack | ★ | Last push |
 |---|---|---|--:|---|
 | **[quasar-ui](https://github.com/andrei-borcea/quasar-ui)** | A modern, real-time dashboard for Apache Pulsar. Built with Nuxt 4, Vue 3, and Tailwind CSS. | `Vue` |  | 8 months ago |
+
+</details>
+
+<details open>
+<summary><b>Other</b> (1)</summary>
+
+| Project | Description | Stack | ★ | Last push |
+|---|---|---|--:|---|
+| **[mymuaythai](https://github.com/andrei-borcea/mymuaythai)** | — |  |  | today |
 
 </details>
 <!-- AUTO:projects:END -->
@@ -119,8 +129,9 @@ Objective-C++ ░░░░░░░░░░░░░░░░░░░░    0.
 
 <!-- AUTO:forks:START -->
 <details>
-<summary><b>Forks &amp; contributions</b> (28)</summary>
+<summary><b>Forks &amp; contributions</b> (29)</summary>
 
+- [SDV](https://github.com/andrei-borcea/SDV) — Synthetic data generation for tabular data
 - [darwin-vm](https://github.com/andrei-borcea/darwin-vm) — Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - [radare2](https://github.com/andrei-borcea/radare2) — UNIX-like reverse engineering framework and command-line toolset
 - [iaito](https://github.com/andrei-borcea/iaito) — Official radare2 GUI
